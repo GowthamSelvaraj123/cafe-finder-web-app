@@ -1,4 +1,5 @@
  <h1>Cafe Finder Web App</h1>
+ <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/1b5b1b0f-2f45-4d9b-afd3-c4be9cd01577" />
     <p>A full-stack Flask web application to discover, add, and manage cafes with WiFi and coffee availability.</p>
     <h2>Features</h2>
     <ul>
